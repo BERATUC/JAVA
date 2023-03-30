@@ -11,7 +11,7 @@ import java.lang.System;
 /**
  * 
  
- * @author vs
+ * @author BERA
  */
 public class ej2 {
     
