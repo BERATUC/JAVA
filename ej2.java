@@ -26,8 +26,8 @@ public class ej2 {
         Scanner lectura = new Scanner(System.in);
         String nombre;
         System.out.print("Introduzca su nombre: ");
-        nombre = lectura.nextLine(); //asigna a la variable n el número entero introducido por teclado  
-// TODO code application logic here
+        nombre = lectura.nextLine(); //asigna a la variable nombre el Nombre introducido por teclado  
+
         System.out.println(nombre);
         
         
